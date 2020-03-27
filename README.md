@@ -1,5 +1,7 @@
 # Be The Hero!
 
+![Be The Hero](https://raw.githubusercontent.com/GuilhermeBalog/be-the-hero-mobile/master/src/assets/logo%403x.png)
+
 Projeto da Semana OmniStack 11, da [Rocketseat](https://rocketseat.com.br/)
 
 ## O que é a semana OmniStack?
